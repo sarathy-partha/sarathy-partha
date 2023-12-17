@@ -1,6 +1,6 @@
 Accomplished Software Developer and Enterprise Architect with over 20 years of experience in spearheading diverse IT initiatives across web, mobile, and enterprise platforms. Proven expertise in enterprise architecture, digital transformation, leading high-performance application development, and seamlessly integrating User Experience (UX) into technology solutions. Established a track record of building and scaling web technology practices, driving innovation in software development, and delivering complex solutions for large-scale businesses.
 
-##Key strengths include:##
+## Key strengths include:
 
 **Enterprise Architecture & Digital Transformation:**
 Demonstrated ability in leading digital transformation projects, contributing to the enhancement of business processes, operational efficiency, and user-centric design in various industries, including marine and superannuation management.
